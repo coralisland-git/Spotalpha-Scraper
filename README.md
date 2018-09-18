@@ -1,7 +1,7 @@
 # Spotalpha-Scraper
 
-Collect the details ( Name, Price, State ) and store into Mysql DB.
+Collects the details ( Name, Price, State ) and stores into Mysql DB.
 
-# How to Run
+## How to Run
 
 Scrapy crawl spotalpha
